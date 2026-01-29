@@ -5,3 +5,6 @@ def subtract (a,b):
 
 print(add(5, 7))
 print (subtract(5,3))
+
+print(f"Result: {add(5, 7)}")
+
